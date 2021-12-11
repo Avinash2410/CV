@@ -1,0 +1,59 @@
+
+		body{
+		background-color:;
+		margin: 0;
+		text-align: center;
+		font-family: 'Comfortaa', cursive;
+		    }
+			h1{
+
+				margin:auto 0 auto 0 auto 0 auto 0;
+				color:#519259;
+				font-family: 'Sacramento', cursive;
+			}
+			h3{
+				margin-top: 0px;
+				color:#2E4C6D;
+			}
+			h2{
+
+				color:#2E4C6D;
+			}
+		hr{
+		color:grey;
+		border:none;
+		border-top:dotted;
+		border-width: 6px;
+		height:0px;
+		width:5%;
+		}
+		.first{
+			text-align: center;
+		background-color: #E4F9F5;
+			height: 740px;
+			width: 1550px;
+					}
+				.second{
+					background-color: #E4F9F5;
+					height: 740px;
+					width: 1550px;
+				}
+				.imgcloud1{
+
+					margin-top: 40px;
+
+					margin-left: 200px;
+					margin-right: 300px;
+				}
+				.imgcloud3{
+						margin-right: 300px;
+				}
+				.table1{
+					color: #396EB0;
+				}
+				.table2{
+					color:  #191A19;
+				}
+				.list1{
+					color: #C36A2D;
+				}
